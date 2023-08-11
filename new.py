@@ -76,35 +76,42 @@
 #     print(l,end='')
 	
 
-sample = input()
+# sample = input()
 
-letters = 0
+# letters = 0
 
-digits = 0
+# digits = 0
 
-for i in  sample:
+# for i in  sample:
 
-    if i.isdigit():
+#     if i.isdigit():
 
-        digits += 1
+#         digits += 1
 
 
-    elif i.isalpha():
+#     elif i.isalpha():
 
-        letters += 1
+#         letters += 1
 
     
-    else:
+#     else:
 
-        pass
+#         pass
 
       
 
 
-print(letters)
+# print(letters)
 
-print(digits)
+# print(digits)
     
+
+
+
+
+
+
+
 
 
 
